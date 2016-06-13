@@ -1,0 +1,13 @@
+Found Torch7 in /home/vatsal/torch/install
+Looking for pthread.h
+Looking for pthread.h - found
+Looking for pthread_create
+Looking for pthread_create - not found
+Looking for pthread_create in pthreads
+Looking for pthread_create in pthreads - not found
+Looking for pthread_create in pthread
+Looking for pthread_create in pthread - found
+Found Threads: TRUE
+Found CUDA: /usr/local/cuda (found suitable version "7.5", minimum required is "6.5")
+Found gcc >=5 and CUDA <=7.5, adding workaround C++ flags
+MAGMA not found. Compiling without MAGMA support
